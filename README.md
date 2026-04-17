@@ -1,1 +1,2 @@
-# Algoritma-dan-Struktur-Data-P6
+##Muhammad Hasan Ghani
+##251011700638
